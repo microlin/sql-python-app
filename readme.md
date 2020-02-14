@@ -2,8 +2,13 @@
 
 ## How to install this app
 
-TO use this app you don't need to install it;just download it and you can run it.
+To use this app you don't need to install it;just download it and you can run it!
+You'll need install python 3.7 thought.
 
+
+Why you should use this app
+
+It prints "Hello,world".What else do you need ?
 
 
 '''
